@@ -1,2 +1,2 @@
 # FullStackOpen
-Exercises from the University of Helsinki's modern webn development course
+Exercises from the University of Helsinki's modern web development course
