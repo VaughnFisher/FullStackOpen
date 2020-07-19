@@ -1,0 +1,8 @@
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server-->browser: status code 201 created
+
+note over browser:
+SPA version uses the JavaScript 
+code it fetched from the server
+earlier to update content
+end note
