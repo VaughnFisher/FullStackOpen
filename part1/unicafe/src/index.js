@@ -108,7 +108,7 @@ const App = () => {
   return (
     <>
     <div>
-      <Heading title="Anecdote of the day" />
+      <Heading title="Anecdote of the day " />
       <Anecdote anecdote={selected} votes={votes} />
       <Button handleClick={() => addVote(selected)} text="Vote"/>
       <Button handleClick={() => randAnec(Math.floor(Math.random()*6))} text="New Anecdote" />
