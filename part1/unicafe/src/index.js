@@ -14,7 +14,7 @@ const Button = (props) => (
   <button onClick={props.handleClick}>
     {props.text}
   </button>
-)
+) 
 
 const Stat = (props) => (
   <tr>
